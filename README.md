@@ -8,8 +8,6 @@ Laporan praktikum modul satu Matematika Diskrit
 • NIM : 260306074
 
 # MAKSUD DAN TUJUAN REPOSITORY
-## Maksud dan Tujuan
-
 ### Maksud
 Repository ini dibuat untuk mendokumentasikan hasil Laporan Praktikum (Laprak) Modul 1 Mata Kuliah Matematika Diskrit / Logika Pemrograman. Repository ini berisi implementasi program berbasis bahasa Python yang mensimulasikan berbagai studi kasus pengambilan keputusan menggunakan logika Boolean (*AND*, *OR*, dan *XOR*), dilengkapi dengan evaluasi tabel kebenaran (*truth table*) serta pengujian sistem.
 
