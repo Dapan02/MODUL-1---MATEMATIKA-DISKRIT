@@ -83,28 +83,20 @@ Aturan: Hasil TRUE jika MINIMAL SALAH SATU syarat bernilai T.
 ---
 
 ## KELOMPOK 3: LOGIKA XOR (^)
-Aturan: Hasil TRUE jika jumlah syarat bernilai T ada GANJIL (1 atau 3).
+Aturan: Hasil TRUE hanya jika nilainya BERBEDA (satu T dan satu F).
 
 ### 7. Akses Roller Coaster (akses wahana roller coaster.py)
-| Tinggi Cukup | Umur Cukup | Punya Tiket | Hasil |
-| :---: | :---: | :---: | :---: |
-| T | T | T | T |
-| T | T | F | F |
-| T | F | T | F |
-| T | F | F | T |
-| F | T | T | F |
-| F | T | F | T |
-| F | F | T | T |
-| F | F | F | F |
+| Tinggi Cukup | Umur Cukup | Hasil |
+| :---: | :---: | :---: |
+| T | T | F |
+| T | F | T |
+| F | T | T |
+| F | F | F |
 
 ### 8. Akses Membuka Pintu (akses membuka pintu.py)
-| Fingerprint | PIN Pad | Kartu Akses | Hasil |
-| :---: | :---: | :---: | :---: |
-| T | T | T | T |
-| T | T | F | F |
-| T | F | T | F |
-| T | F | F | T |
-| F | T | T | F |
-| F | T | F | T |
-| F | F | T | T |
-| F | F | F | F |
+| Fingerprint | PIN Pad | Hasil |
+| :---: | :---: | :---: |
+| T | T | F |
+| T | F | T |
+| F | T | T |
+| F | F | F |
