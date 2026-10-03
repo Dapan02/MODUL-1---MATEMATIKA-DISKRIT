@@ -1,4 +1,4 @@
-# Tabel Kebenaran (Truth Table) Modul 1
+# TESTING-PENGUJIAN SISTEMATIS Modul 1
 
 ## KELOMPOK 1: LOGIKA AND (and)
 Aturan: Hasil TRUE hanya jika SEMUA syarat bernilai T.
