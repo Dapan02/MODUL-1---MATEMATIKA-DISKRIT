@@ -9,10 +9,7 @@ Aturan: Hasil TRUE hanya jika SEMUA syarat bernilai T.
 | T | T | T | T | PASS |
 | T | T | F | F | PASS |
 | T | F | T | F | PASS |
-| T | F | F | F | PASS |
 | F | T | T | F | PASS |
-| F | T | F | F | PASS |
-| F | F | T | F | PASS |
 | F | F | F | F | PASS |
 
 ### 2. Rekrutmen Pekerja (rekruitmen pekerja.py)
@@ -21,10 +18,7 @@ Aturan: Hasil TRUE hanya jika SEMUA syarat bernilai T.
 | T | T | T | T | PASS |
 | T | T | F | F | PASS |
 | T | F | T | F | PASS |
-| T | F | F | F | PASS |
 | F | T | T | F | PASS |
-| F | T | F | F | PASS |
-| F | F | T | F | PASS |
 | F | F | F | F | PASS |
 
 ### 3. Seleksi Siswa (seleksi siswa.py)
@@ -33,10 +27,7 @@ Aturan: Hasil TRUE hanya jika SEMUA syarat bernilai T.
 | T | T | T | T | PASS |
 | T | T | F | F | PASS |
 | T | F | T | F | PASS |
-| T | F | F | F | PASS |
 | F | T | T | F | PASS |
-| F | T | F | F | PASS |
-| F | F | T | F | PASS |
 | F | F | F | F | PASS |
 
 ---
@@ -48,10 +39,7 @@ Aturan: Hasil TRUE jika MINIMAL SALAH SATU syarat bernilai T.
 | Punya NIM | Bawa KTP | Email Kampus | Hasil | Status Test |
 | :---: | :---: | :---: | :---: | :---: |
 | T | T | T | T | PASS |
-| T | T | F | T | PASS |
-| T | F | T | T | PASS |
 | T | F | F | T | PASS |
-| F | T | T | T | PASS |
 | F | T | F | T | PASS |
 | F | F | T | T | PASS |
 | F | F | F | F | PASS |
@@ -60,10 +48,7 @@ Aturan: Hasil TRUE jika MINIMAL SALAH SATU syarat bernilai T.
 | Rata-rata Cukup | Lulus Remedial | Keaktifan | Hasil | Status Test |
 | :---: | :---: | :---: | :---: | :---: |
 | T | T | T | T | PASS |
-| T | T | F | T | PASS |
-| T | F | T | T | PASS |
 | T | F | F | T | PASS |
-| F | T | T | T | PASS |
 | F | T | F | T | PASS |
 | F | F | T | T | PASS |
 | F | F | F | F | PASS |
@@ -72,10 +57,7 @@ Aturan: Hasil TRUE jika MINIMAL SALAH SATU syarat bernilai T.
 | Agunan | Penjamin | Prioritas | Hasil | Status Test |
 | :---: | :---: | :---: | :---: | :---: |
 | T | T | T | T | PASS |
-| T | T | F | T | PASS |
-| T | F | T | T | PASS |
 | T | F | F | T | PASS |
-| F | T | T | T | PASS |
 | F | T | F | T | PASS |
 | F | F | T | T | PASS |
 | F | F | F | F | PASS |
