@@ -28,30 +28,28 @@ Repository ini dibuat untuk mendokumentasikan hasil Laporan Praktikum (Laprak) M
 7. akses wahana roller coaster
 
 # ALUR MATERI
-## Alur Materi Praktikum
+alur pembelajaran pada praktikum Modul 1 ini dibagi menjadi beberapa tahapan:
 
-Agar lebih mudah dipahami, alur pembelajaran pada praktikum Modul 1 ini dibagi menjadi beberapa tahapan:
-
-### 1. Perkenalan Tipe Data Boolean & Variabel Kondisi
+1. Perkenalan Tipe Data Boolean & Variabel Kondisi
 * **Apa itu Boolean?** Mengenal tipe data dasar yang hanya punya dua nilai: `True` (T / Benar) dan `False` (F / Salah).
 * **Menentukan Variabel:** Belajar mengubah syarat dunia nyata menjadi variabel logika. 
   * *Contoh:* Syarat naik roller coaster diubah jadi variabel `tinggi_badan_cukup` dan `umur_cukup`.
 
-### 2. Memahami Operator Logika Dasar
+2. Memahami Operator Logika Dasar
 Mempelajari cara menggabungkan beberapa kondisi menggunakan 3 gerbang logika utama:
 * **Logika AND (`and`):** Sifatnya "ketat". Hasilnya baru `True` kalau **semua** syarat bernilai `True`.
 * **Logika OR (`or`):** Sifatnya "fleksibel". Hasilnya jadi `True` selama ada **minimal satu** syarat yang bernilai `True`.
 * **Logika XOR (`^` / Exclusive OR):** Sifatnya "pilih salah satu". Hasilnya `True` hanya kalau nilai kondisinya **berbeda** (satu `True` dan satu `False`).
 
-### 3. Pembuatan Tabel Kebenaran (Truth Table)
+3. Pembuatan Tabel Kebenaran (Truth Table)
 * Belajar memetakan seluruh kombinasi kemungkinan input ($2^n$ kombinasi untuk $n$ variabel).
 * Menentukan hasil akhir (*output*) secara manual berdasarkan aturan logika yang digunakan sebelum dituangkan ke kode program.
 
-### 4. Implementasi Kode Program di Python
+4. Implementasi Kode Program di Python
 * Mengubah model logika yang sudah dirancang ke dalam sintaks Python.
 * Menggunakan struktur percabangan (`if - else`) untuk menentukan keputusan/output berdasarkan nilai variabel.
 
-### 5. Pengujian Sistem (System Testing) & Dokumentasi
+5. Pengujian Sistem (System Testing) & Dokumentasi
 * **Uji Coba Kode:** Menjalankan program menggunakan berbagai kombinasi variabel untuk memastikan hasilnya cocok dengan Tabel Kebenaran.
 * **Penentuan Status:** Menandai hasil pengujian dengan status **PASS** jika output program sudah 100% sesuai dengan logika.
 * **Upload ke GitHub:** Merapikan struktur folder dan mendokumentasikan seluruh materi ke dalam repository GitHub.
