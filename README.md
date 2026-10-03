@@ -1,4 +1,4 @@
-# MODUL-1---MATEMATIKA-DISKRIT
+# MODUL-1-MATEMATIKA-DISKRIT
 Laporan praktikum modul satu Matematika Diskrit 
 
 • NAMA : Muhammad Dafan Arsenal Ramadhan 
