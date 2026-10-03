@@ -42,7 +42,6 @@ Mempelajari cara menggabungkan beberapa kondisi menggunakan 3 gerbang logika uta
 * **Logika XOR (`^` / Exclusive OR):** Sifatnya "pilih salah satu". Hasilnya `True` hanya kalau nilai kondisinya **berbeda** (satu `True` dan satu `False`).
 
 3. Pembuatan Tabel Kebenaran (Truth Table)
-* Belajar memetakan seluruh kombinasi kemungkinan input ($2^n$ kombinasi untuk $n$ variabel).
 * Menentukan hasil akhir (*output*) secara manual berdasarkan aturan logika yang digunakan sebelum dituangkan ke kode program.
 
 4. Implementasi Kode Program di Python
