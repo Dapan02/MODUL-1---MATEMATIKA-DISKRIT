@@ -55,3 +55,7 @@ Mempelajari cara menggabungkan beberapa kondisi menggunakan 3 gerbang logika uta
 * **Upload ke GitHub:** Merapikan struktur folder dan mendokumentasikan seluruh materi ke dalam repository GitHub.
   
 # MENJALANKAN PROGRAM
+1. Cari/search di Windows, lalu ketik "cmd" lalu "Enter" atau gampangnya bisa dengan "Ctrl + R" dan tekan "Enter"
+2. Di dalam cmd ketik "python --version" (opsional) untuk memastikan python sudah ter-install di laptop atau tidak (jika python ada dilayar cmd akan memunculkan versi python yang digunakan, jika tidak biasanya akan bertulis "can't found" yang tandanya pengguna harus mendownload python terlebih dahulu)
+3. Setelah mengetahui python sudah ter-install, ketik "notepad contoh.py" di CMD lalu tekan enter, jika muncul pop-up untuk membuat file baru, klik yes dan tempatkan file tersebut di folder yang sudah disediakan
+4. Dalam notepad masukan kode yang ingin dimasukkan (ctrl + c), lalu tempel (paste) ke dalam notepad (ctrl + v)
