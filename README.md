@@ -19,13 +19,14 @@ Repository ini dibuat untuk mendokumentasikan hasil Laporan Praktikum (Laprak) M
 5. **Dokumentasi Praktikum:** Menyediakan rekam jejak pengerjaan tugas praktikum yang rapi, terstruktur, dan mudah diakses sebagai bahan evaluasi dan pembelajaran.
    
 # STUDI KASUS
-1. verifikasi mahasiswa
-2. siswa naik kelas
-3. seleksi siswa
-4. rekrutmen pekerja
-5. penerima mahasiswa
-6. kredit bank
-7. akses wahana roller coaster
+1. Verifikasi mahasiswa
+2. Siswa naik kelas
+3. Seleksi siswa
+4. Rekrutmen pekerja
+5. Penerima mahasiswa
+6. Kredit bank
+7. Akses wahana roller coaster
+8. Akses membuka pintu
 
 # ALUR MATERI
 alur pembelajaran pada praktikum Modul 1 ini dibagi menjadi beberapa tahapan:
