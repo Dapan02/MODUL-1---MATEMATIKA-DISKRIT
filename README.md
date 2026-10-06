@@ -55,7 +55,29 @@ Mempelajari cara menggabungkan beberapa kondisi menggunakan 3 gerbang logika uta
 * **Upload ke GitHub:** Merapikan struktur folder dan mendokumentasikan seluruh materi ke dalam repository GitHub.
   
 # MENJALANKAN PROGRAM
-1. Cari/search di Windows, lalu ketik "cmd" lalu "Enter" atau gampangnya bisa dengan "Ctrl + R" dan tekan "Enter"
-2. Di dalam cmd ketik "python --version" (opsional) untuk memastikan python sudah ter-install di laptop atau tidak (jika python ada dilayar cmd akan memunculkan versi python yang digunakan, jika tidak biasanya akan bertulis "can't found" yang tandanya pengguna harus mendownload python terlebih dahulu)
-3. Setelah mengetahui python sudah ter-install, ketik "notepad contoh.py" di CMD lalu tekan enter, jika muncul pop-up untuk membuat file baru, klik yes dan tempatkan file tersebut di folder yang sudah disediakan
-4. Dalam notepad masukan kode yang ingin dimasukkan (ctrl + c), lalu tempel (paste) ke dalam notepad (ctrl + v)
+# Panduan Instalasi dan Menjalankan Python via CMD
+
+## 1. Unduh dan Instal Python
+* Buka peramban (*browser*) dan kunjungi situs resmi [python.org/downloads](https://www.python.org/downloads/).
+* Unduh berkas *installer* Python versi terbaru untuk Windows.
+* Jalankan berkas *installer* yang telah diunduh.
+* **Sangat Penting:** Centang opsi **"Add python.exe to PATH"** di bagian bawah jendela instalasi sebelum menekan **Install Now**.
+
+## 2. Cek Instalasi Python melalui CMD
+* Tekan kombinasi tombol **Win + R** pada papan ketik, ketik `cmd`, lalu tekan **Enter**.
+* Di dalam jendela CMD, ketik `python --version` lalu tekan **Enter**.
+* Jika berhasil, CMD akan menampilkan versi Python yang terpasang (contoh: `Python 3.12.x`). Jika muncul pesan eror/tidak ditemukan, pastikan proses instalasi pada langkah pertama sudah benar.
+
+## 3. Membuat dan Membuka File di Notepad
+* Di dalam CMD, ketik `notepad contoh.py` lalu tekan **Enter**.
+* Jika muncul jendela pop-up konfirmasi untuk membuat berkas baru, pilih **Yes**.
+
+## 4. Menginput dan Menyimpan Kode
+* Salin (*copy*) kode program Python yang telah Anda siapkan.
+* Tempel (*paste*) kode tersebut ke dalam jendela Notepad yang terbuka (`Ctrl + V`).
+* Simpan perubahan dengan menekan **Ctrl + S**, lalu tutup jendela Notepad.
+
+## 5. Menjalankan Kode Python
+* Kembali ke jendela CMD.
+* Ketik `python contoh.py` lalu tekan **Enter** untuk mengeksekusi dan menampilkan hasil dari kode program Anda.
+  
